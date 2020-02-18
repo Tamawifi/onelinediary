@@ -1,7 +1,7 @@
 # OneLineDiary
 One Line Diary App. (made for studying c.)
 
-## Short Discription
+## Short Description
 This is simple app which can make a diary in one line.
 Now you can't use space, you should use underbar(_).
 
